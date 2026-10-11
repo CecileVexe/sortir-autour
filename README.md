@@ -4,7 +4,7 @@ Application web qui propose des **sorties réelles** autour d'un point de dépar
 
 - **Deux parcours, un seul moteur** : un questionnaire guidé (page d'accueil) et une recherche rapide avec filtres (`/recherche`). Les deux produisent les mêmes critères et appellent la même route `/api/search`.
 - **Données ouvertes et vérifiables** : DATAtourisme (offices de tourisme), OpenStreetMap (avec Wikidata et Wikimedia Commons) et OpenAgenda. Chaque carte renvoie vers sa source. Une information inconnue reste affichée comme inconnue.
-- **IA facultative** (Groq) : elle transforme une description libre en critères et explique les résultats. Elle n'invente aucun lieu ni aucun prix, et l'application fonctionne entièrement sans elle.
+- **IA facultative** (Groq), **actuellement en pause** : le code est prêt mais désactivé (`AI_PROVIDER=none`). Elle transformerait une description libre en critères et expliquerait les résultats. Elle n'invente aucun lieu ni aucun prix, et l'application fonctionne entièrement sans elle.
 - **Coût nul** : Vercel Hobby, services gratuits, aucune base de données obligatoire.
 
 > Projet personnel non commercial. Le cadrage (audit des sources, choix techniques) est dans [`docs/01-cadrage.md`](docs/01-cadrage.md).
@@ -153,6 +153,8 @@ src/
 ---
 
 ## IA et quotas
+
+> **Statut : en pause.** Le code est en place et testé avec des réponses simulées, mais il n'a jamais été essayé avec une vraie clé. Pour l'activer : `AI_PROVIDER=groq` et `GROQ_API_KEY`.
 
 Trois modes :
 
