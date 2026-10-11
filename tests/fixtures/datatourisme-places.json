@@ -1,0 +1,504 @@
+{
+ "objects": [
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Office de Tourisme du Lac d'Annecy",
+    "identifier": "42",
+    "homepage": [
+     "https://www.lac-annecy.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.831569,
+      "longitude": 6.174042
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74242",
+        "label": {
+         "@en": "Saint-Jorioz",
+         "@fr": "Saint-Jorioz"
+        }
+       },
+       "streetAddress": [
+        "916 route d'Albertville"
+       ],
+       "postalCode": "74410",
+       "addressLocality": "Saint-Jorioz"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2018-06-16",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "The legacy began in 1847 when a family of potters called Hertz came to Annecy. It became La Poterie d'Annecy in 1950 and moved to St Jorioz in 1963 to keep the legacy alive in the 21st century under the name of La Poterie du Lac.",
+      "@fr": "Héritière d'une longue lignée de céramistes qui s'établit à Annecy en 1847 par l'arrivée de la famille \"Hertz\", devint en 1950 \"La Poterie d'Annecy\" et déménagea en 1963 à St-Jorioz pour continuer dans le 21ème siècle sous le nom de \"La Poterie du Lac\"."
+     }
+    }
+   ],
+   "label": {
+    "@ru": "La Poterie du Lac",
+    "@en": "La Poterie du Lac",
+    "@fr": "La Poterie du Lac",
+    "@zh": "La Poterie du Lac"
+   },
+   "type": [
+    "CulturalSite",
+    "PointOfInterest",
+    "TechnicalHeritage",
+    "PlaceOfInterest"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 6 65 40 31 72"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/6454cd74-3ff5-32e3-846e-7e40e9befcb3",
+   "uuid": "01b79123-fc0a-3ed1-8499-e00cc57a82e9"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Ville d'Annecy",
+    "identifier": "1823",
+    "homepage": [
+     "https://www.annecy.fr/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.906647,
+      "longitude": 6.107384
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74010",
+        "label": {
+         "@en": "Annecy",
+         "@fr": "Annecy"
+        }
+       },
+       "streetAddress": [
+        "Place Chorus",
+        "Cran-Gevrier"
+       ],
+       "postalCode": "74960",
+       "addressLocality": "Annecy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2026-09-18",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "The La Turbine media library offers free access to multimedia collections and a wide range of services. Housed in the same premises as the La Turbines Sciences cultural center, it promotes scientific discoveries for all ages.",
+      "@fr": "La médiathèque La Turbine propose une libre consultation de collections multimédias et de services variés. Aménagée dans les mêmes locaux que le centre culturel La Turbines Sciences, elle valorise les découvertes scientifiques pour tous les âges."
+     }
+    }
+   ],
+   "label": {
+    "@fr": "Médiathèque La Turbine"
+   },
+   "type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "Library",
+    "SportsAndLeisurePlace",
+    "PointOfInterest"
+   ],
+   "lastUpdateDatatourisme": "2026-09-19T06:08:32.696Z",
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 85 46 76 30",
+      "+33 4 85 46 74 30"
+     ],
+     "homepage": [
+      "https://bibliotheques.annecy.fr/"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/2f78b80a-279d-37c3-8cd9-ec87189623b0",
+   "uuid": "05f2bbb1-0871-3872-b37b-431f262b2ac3"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Ville d'Annecy",
+    "identifier": "1823",
+    "homepage": [
+     "https://www.annecy.fr/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.89909,
+      "longitude": 6.123088
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74010",
+        "label": {
+         "@en": "Annecy",
+         "@fr": "Annecy"
+        }
+       },
+       "streetAddress": [
+        "Quai des cordeliers"
+       ],
+       "postalCode": "74000",
+       "addressLocality": "Annecy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2024-09-17",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "In the heart of Old Annecy, the district of the manufacture recalls the existence of an important cotton factory which was the center of an important textile complex founded at the beginning of the 19th century by a Savoyard industrialist, Jean-Pierre Duport.",
+      "@fr": "Au cœur du Vieil Annecy, le quartier de la manufacture rappelle l'existence d'une importante manufacture de coton qui était le centre d'un important ensemble textile fondé au début du 19e siècle par un industriel savoyard, Jean-Pierre Duport."
+     }
+    }
+   ],
+   "label": {
+    "@en": "La Manufacture d'Annecy",
+    "@fr": "Ancienne manufacture de coton"
+   },
+   "type": [
+    "PointOfInterest",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "IndustrialSite",
+    "TechnicalHeritage"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "homepage": [
+      "https://www.annecy.fr/activites/archives-et-patrimoine/ville-dart-et-dhistoire"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/55cc25dc-d22c-3fb9-bec1-240f75f5109c",
+   "uuid": "0df67601-693e-33b9-b411-525e00721e55"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Office de Tourisme du Lac d'Annecy",
+    "identifier": "42",
+    "homepage": [
+     "https://www.lac-annecy.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.865193,
+      "longitude": 6.139786
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74267",
+        "label": {
+         "@en": "Sevrier",
+         "@fr": "Sevrier"
+        }
+       },
+       "streetAddress": [
+        "2000 route d'Albertville"
+       ],
+       "postalCode": "74320",
+       "addressLocality": "Sevrier"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2019-05-06",
+   "label": {
+    "@en": "Bibliothèque",
+    "@fr": "Bibliothèque"
+   },
+   "type": [
+    "SportsAndLeisurePlace",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 50 52 68 80"
+     ],
+     "homepage": [
+      "http://www.sevrier.fr/"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/c7de86f6-f2f1-30f7-a40c-c1cd0de0f853",
+   "uuid": "0ef9218a-370f-31e7-b80f-1ec0c0fcad26"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Office de Tourisme du Lac d'Annecy",
+    "identifier": "42",
+    "homepage": [
+     "https://www.lac-annecy.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.947584,
+      "longitude": 6.033577
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74272",
+        "label": {
+         "@en": "Sillingy",
+         "@fr": "Sillingy"
+        }
+       },
+       "streetAddress": [
+        "350 route des Ecoles"
+       ],
+       "postalCode": "74330",
+       "addressLocality": "Sillingy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2024-10-18",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "Library (lending of books, animation, reading committee, baby readers...)",
+      "@fr": "Bibliothèque (prêt de livres, animation, comité lecture, bébés lecteurs…)"
+     }
+    }
+   ],
+   "label": {
+    "@fr": "Bibliothèque André Lafarge"
+   },
+   "type": [
+    "PlaceOfInterest",
+    "Library",
+    "SportsAndLeisurePlace",
+    "PointOfInterest",
+    "CulturalSite"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 50 88 23 18"
+     ],
+     "homepage": [
+      "https://www.karvi.fr/sw/sigb/SW_2.2.1.0/frameset.php?PHPSESSID=9ogvcsfgpaolvr8tv9nbtoq0d1"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/d7c9a982-60eb-3b60-8f0a-01ad30dbe3c8",
+   "uuid": "10979964-81e7-3147-84a8-e107b9c2c420"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Ville d'Annecy",
+    "identifier": "1823",
+    "homepage": [
+     "https://www.annecy.fr/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.897953,
+      "longitude": 6.127496
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74010",
+        "label": {
+         "@en": "Annecy",
+         "@fr": "Annecy"
+        }
+       },
+       "streetAddress": [
+        "rue Perrière"
+       ],
+       "postalCode": "74000",
+       "addressLocality": "Annecy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2024-09-17",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "A picturesque element of Old Annecy, the Perrière Gate marked the outer limit of the town in the Middle Ages. Preserved unlike many other city gates, it gives access to a peaceful suburb away from tourists.",
+      "@fr": "Elément pittoresque du Vieil Annecy, la porte Perrière marquait au Moyen Age la limite extérieure de la ville. Préservée contrairement à beaucoup d'autres portes de la ville, elle donne accès à un faubourg paisible à l'écart des touristes."
+     }
+    }
+   ],
+   "label": {
+    "@en": "Porte Perrière",
+    "@fr": "Porte Perrière"
+   },
+   "type": [
+    "CulturalSite",
+    "PointOfInterest",
+    "District",
+    "CityHeritage",
+    "PlaceOfInterest"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "homepage": [
+      "https://www.annecy.fr/activites/archives-et-patrimoine/ville-dart-et-dhistoire"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/9cd9ae4d-250f-357a-97d4-9adcf5f14e33",
+   "uuid": "1151f859-fcd1-35b2-b485-43e3a9de10fd"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Office de Tourisme du Lac d'Annecy",
+    "identifier": "42",
+    "homepage": [
+     "https://www.lac-annecy.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.969163,
+      "longitude": 6.032484
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74026",
+        "label": {
+         "@en": "La Balme-de-Sillingy",
+         "@fr": "La Balme-de-Sillingy"
+        }
+       },
+       "streetAddress": [
+        "165 route de Paris"
+       ],
+       "postalCode": "74330",
+       "addressLocality": "La Balme-de-Sillingy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2026-04-13",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "Unique in France, the National Collection currently comprises 350 trees of 145 different varieties, including some rare specimens. Stop off at the Bois du Tornet building to discover this collection.",
+      "@fr": "Unique en France, la Collection Nationale comprend aujourd’hui 350 arbres de 145 variétés différentes dont certains spécimens rares. Au départ du bâtiment Bois du Tornet, profitez d’une petite halte pour découvrir cette collection."
+     }
+    }
+   ],
+   "label": {
+    "@en": "National Collection of Asian cherry blossoms",
+    "@fr": "Collection Nationale de cerisiers à fleurs d'Asie"
+   },
+   "type": [
+    "ParkAndGarden",
+    "Park",
+    "PointOfInterest",
+    "CulturalSite",
+    "PlaceOfInterest"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 50 77 70 74"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/5062a6e5-32df-3b33-83e4-390978b01c3f",
+   "uuid": "12fdd169-1ad6-3d41-926f-18ff658dabd2"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Office de Tourisme du Lac d'Annecy",
+    "identifier": "42",
+    "homepage": [
+     "https://www.lac-annecy.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.961771,
+      "longitude": 6.055956
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "74026",
+        "label": {
+         "@en": "La Balme-de-Sillingy",
+         "@fr": "La Balme-de-Sillingy"
+        }
+       },
+       "streetAddress": [
+        "Chemin de la Montagne"
+       ],
+       "postalCode": "74330",
+       "addressLocality": "La Balme-de-Sillingy"
+      }
+     ]
+    }
+   ],
+   "lastUpdate": "2024-12-31",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "The Maquisards set up a training camp on the Mandallaz, and particularly a base at Rocher du Maquis in 1944. A commemorative plaque bears witness to their activities. Adding a historical curiosity to the natural beauty of the site.",
+      "@fr": "Les Maquisards ont établi un camp d'entraînement sur la Mandallaz, et particulièrement une base au Rocher du Maquis en 1944. Une plaque commémorative témoigne de leurs activités. De quoi ajouter une curiosité historique à la beauté naturelle du lieu."
+     }
+    }
+   ],
+   "label": {
+    "@en": "Rocher du Maquis - Mandallaz",
+    "@fr": "Rocher du Maquis - Mandallaz"
+   },
+   "type": [
+    "DefenceSite",
+    "MilitaryCemetery",
+    "RemembranceSite",
+    "PointOfInterest",
+    "PlaceOfInterest",
+    "CulturalSite"
+   ],
+   "lastUpdateDatatourisme": "2026-01-01T00:00:00Z",
+   "uri": "https://data.datatourisme.fr/13/ccb8e309-ed43-3cca-8b3a-38742a77a0a6",
+   "uuid": "17e98ab8-149e-342c-8b2e-79f342877020"
+  }
+ ]
+}

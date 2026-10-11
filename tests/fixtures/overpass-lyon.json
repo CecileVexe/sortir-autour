@@ -1,0 +1,185 @@
+{
+ "elements": [
+  {
+   "type": "node",
+   "id": 5668938484,
+   "lat": 45.6759265,
+   "lon": 4.7606496,
+   "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Rue du Général de Gaulle",
+    "air_conditioning": "yes",
+    "amenity": "arts_centre",
+    "check_date": "2026-01-28",
+    "name": "Le Briscope",
+    "website": "https://www.briscope.fr/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9101948413,
+   "lat": 45.6788431,
+   "lon": 4.7743509,
+   "tags": {
+    "bar": "yes",
+    "leisure": "bowling_alley",
+    "name": "Bowling de l'Ouest Lyonnais",
+    "phone": "+33 4 78 05 69 44",
+    "sport": "10pin",
+    "website": "https://www.bowlingdefrance.com/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10167566759,
+   "lat": 45.6782973,
+   "lon": 4.7762628,
+   "tags": {
+    "alt_name": "CGR Brignais",
+    "amenity": "cinema",
+    "brand": "CGR",
+    "brand:website": "https://www.cgrcinemas.fr/",
+    "brand:wikidata": "Q2931406",
+    "brand:wikipedia": "fr:CGR Cinémas",
+    "capacity": "3297",
+    "check_date": "2024-06-14",
+    "cinema:3D": "yes",
+    "name": "Cinema Mega CGR",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "ref:FR:CNC": "700000",
+    "ref:FR:SIRET": "30737601200042",
+    "screen": "15",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "website": "https://www.cgrcinemas.fr/cinema/p0905-cgr-brignais-lyon/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6067436077,
+   "lat": 45.6848393,
+   "lon": 4.7679948,
+   "tags": {
+    "addr:housenumber": "108",
+    "addr:street": "Rue Barthélemy Thimonnier",
+    "contact:facebook": "https://www.facebook.com/caribrew/",
+    "craft": "brewery",
+    "email": "contact@microbrasseriecaribrew.fr",
+    "name": "Microbrasserie Caribrew",
+    "website": "https://microbrasseriecaribrew.fr"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6212653742,
+   "lat": 45.6836388,
+   "lon": 4.771846,
+   "tags": {
+    "addr:city": "Saint-Genis-Laval",
+    "addr:housenumber": "36",
+    "addr:postcode": "69230",
+    "addr:street": "Chemin de Sacuny",
+    "contact:facebook": "https://www.facebook.com/UrbanSoccer",
+    "leisure": "sports_centre",
+    "name": "UrbanSoccer - Lyon Barolles",
+    "phone": "+33478050985",
+    "sport": "soccer;padel",
+    "website": "https://www.urbansoccer.fr"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2457710842,
+   "lat": 45.6985624,
+   "lon": 4.7839741,
+   "tags": {
+    "historic": "fort",
+    "name": "Fort de Côte-Lorette",
+    "wikidata": "Q3078164",
+    "wikipedia": "fr:Fort de Côte-Lorette"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4756862627,
+   "lat": 45.6865487,
+   "lon": 4.7976431,
+   "tags": {
+    "building": "yes",
+    "heritage": "3",
+    "heritage:operator": "mhs",
+    "historic": "castle",
+    "mhs:inscription_date": "1943-10-11",
+    "name": "Château de Lumagne",
+    "ref:mhs": "PA00118035",
+    "source:heritage": "data.gouv.fr, Ministère de la Culture - 2016",
+    "start_date": "C17",
+    "wikidata": "Q2745671",
+    "wikipedia": "fr:Château de Lumagne"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6033566525,
+   "lat": 45.7246542,
+   "lon": 4.7846768,
+   "tags": {
+    "amenity": "theatre",
+    "name": "Ramdam, un Centre d'Art",
+    "website": "http://ramdamcda.org/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1357592004,
+   "lat": 45.7258436,
+   "lon": 4.7930643,
+   "tags": {
+    "name": "City Aventure Lyon - Ste Foy",
+    "sport": "climbing_adventure",
+    "tourism": "attraction",
+    "website": "https://www.cityaventure.com/parc/parc-d-attraction-ste-foy/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12680511985,
+   "lat": 45.7132496,
+   "lon": 4.8052697,
+   "tags": {
+    "fee": "yes",
+    "leisure": "escape_game",
+    "level": "1",
+    "name": "Bon vent, Mamie Arlette - Zupple Escape Game",
+    "phone": "+33 7 66 87 58 33",
+    "website": "https://zupple.fr/escape-game/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11192705358,
+   "lat": 45.7312896,
+   "lon": 4.8230026,
+   "tags": {
+    "amenity": "nightclub",
+    "name": "La Maison (Club)",
+    "opening_hours": "Th-Sa 23:00-04:00",
+    "website": "https://lamaisonrestaurant.fr/bar-club/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14207963427,
+   "lat": 45.6719051,
+   "lon": 4.8658021,
+   "tags": {
+    "contact:facebook": "https://www.facebook.com/Centre.equestre.UCPA.Feyzin/",
+    "leisure": "horse_riding",
+    "name": "Centre équestre UCPA du Fort de Feyzin",
+    "website": "https://www.ucpa.com/centres-sportifs/feyzin"
+   }
+  }
+ ]
+}

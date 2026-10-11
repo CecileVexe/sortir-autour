@@ -1,0 +1,340 @@
+{
+ "events": [
+  {
+   "country": "France",
+   "featured": false,
+   "private": 0,
+   "accessibility": {
+    "ii": false,
+    "hi": true,
+    "vi": false,
+    "pi": false,
+    "mi": true
+   },
+   "dateRange": "19 septembre - 19 décembre",
+   "timezone": "Europe/Paris",
+   "imageCredits": "Delphine Reist, Fatigue I (détails), 2026, lithographie, 119 x 78 cm ; 60 x 78 cm, 20 ex./ vélin de Rives URDLA imprimeur & éditeur",
+   "description": "En résonance à la 18e Biennale d’art contemporain de Lyon, URDLA présentera Faire le sale une exposition monographique consacrée à l’artiste genevoise Delphine Reist.",
+   "age-du-public": [],
+   "title": "Faire le sale, Delphine Reist",
+   "onlineAccessLink": null,
+   "valid": true,
+   "createdAt": "2026-07-21T12:30:08.000Z",
+   "uid": 21042834,
+   "evenement-labellise-saison-culturelle-20242025-bienvenue-en-ville": false,
+   "motive": null,
+   "draft": 0,
+   "rights": {
+    "license": {
+     "name": "Licence Ouverte 2.0",
+     "id": "etalab-2.0",
+     "url": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0/"
+    },
+    "licensor": {
+     "agendaUid": 2470317,
+     "name": "Journées européennes du patrimoine 2026 - Auvergne – Rhône-Alpes",
+     "url": "http://www.journeesdupatrimoine.fr"
+    },
+    "publisher": {
+     "agendaUid": 1168665,
+     "name": "Villeurbanne - Agenda culturel",
+     "url": "https://viva.villeurbanne.fr/Agenda/list"
+    }
+   },
+   "timings": [
+    {
+     "end": "2026-12-17T18:00:00+01:00",
+     "begin": "2026-12-17T10:00:00+01:00"
+    },
+    {
+     "end": "2026-12-18T18:00:00+01:00",
+     "begin": "2026-12-18T10:00:00+01:00"
+    },
+    {
+     "end": "2026-12-19T18:00:00+01:00",
+     "begin": "2026-12-19T14:00:00+01:00"
+    }
+   ],
+   "reservation": 58,
+   "firstTiming": {
+    "end": "2026-09-19T18:00:00.000+02:00",
+    "begin": "2026-09-19T14:00:00.000+02:00"
+   },
+   "links": [],
+   "state": 2,
+   "categories": [
+    29
+   ],
+   "slug": "faire-le-sale-delphine-reist",
+   "updatedAt": "2026-09-01T08:55:47.000Z",
+   "addMethod": "share",
+   "image": {
+    "filename": "cc6e4736dce64e0d84f9846cd3664d22.base.image.jpg",
+    "size": {
+     "width": 700,
+     "height": 537
+    },
+    "variants": [
+     {
+      "filename": "cc6e4736dce64e0d84f9846cd3664d22.full.image.jpg",
+      "size": {
+       "width": 1042,
+       "height": 800
+      },
+      "type": "full"
+     },
+     {
+      "filename": "cc6e4736dce64e0d84f9846cd3664d22.thumb.image.jpg",
+      "size": {
+       "width": 200,
+       "height": 200
+      },
+      "type": "thumbnail"
+     }
+    ],
+    "base": "https://img.openagenda.com/main/"
+   },
+   "attendanceMode": 1,
+   "canonicalUrl": "https://openagenda.com/jep-2026-auvergne-rhone-alpes/events/21042834_faire-le-sale-delphine-reist",
+   "sourceAgendas": [],
+   "creatorUid": 8906622,
+   "lastTiming": {
+    "end": "2026-12-19T18:00:00.000+01:00",
+    "begin": "2026-12-19T14:00:00.000+01:00"
+   },
+   "registration": [],
+   "location": {
+    "disqualifiedDuplicates": null,
+    "access": {
+     "de": "U-Bahn Linie A, Halt(Haltestelle) Flachet; 69, Halt(Haltestelle) Flachet getrunken.",
+     "en": "Subway line A, stop(ruling) Flachet; drunk 69, stop(ruling) Flachet.",
+     "it": "A, fermi Flachet (dirigente(al potere)); l'ubriaco 69, fermi Flachet (dirigente(al potere)).",
+     "fr": "Métro ligne A, arrêt Flachet ; Bus 69, arrêt Flachet.",
+     "es": "Metro linea A, detención Flachet; bebidos 69, detención Flachet."
+    },
+    "city": "Villeurbanne",
+    "timezone": "Europe/Paris",
+    "postalCode": "69100",
+    "latitude": 45.771975,
+    "imageCredits": "©Urdla - centre international estampe & livre",
+    "description": "En 1978, à l’initiative de Max Schoendorff, quelques artistes s’associèrent pour sauver d’une destruction imminente une imprimerie lithographique lyonnaise désuète et en faillite. Ce patrimoine sauvegardé (presses, pierres lithographiques centenaires), il fallut en définir l’usage. C’est au service de la création du moment que l’activité lithographique a repris vie. Aujourd’hui, une ancienne usine de 1000 m² abrite Urdla– Centre international estampe & livre. Il s’agit d’un centre d’art contemporain regroupant des ateliers d’impression (lithographie, taille-douce, taille d’épargne, typographie), une galerie et une librairie. L’association relie ainsi la sauvegarde d’un patrimoine, le soutien à la création contemporaine, et la diffusion de ses productions auprès des amateurs, collectionneurs et scolaires. Urdla sélectionne et invite une douzaine de plasticiens par an et leur offre la possibilité de pratiquer l’estampe originale lors de résidences. L’estampe – terme générique recouvrant tous les résultats d’un procédé d’impression — se caractérise par le tirage d’un nombre limité d’exemplaires numérotés et signés par l’artiste, destinés à la vente. \"Originale\", signifie que les artistes travaillent eux-mêmes à la fabrication des matrices, les techniciens effectuant ensuite les tirages.",
+    "setUid": null,
+    "uid": 56468568,
+    "createdAt": "2019-04-29T16:04:03.000Z",
+    "duplicateCandidates": null,
+    "countryCode": "FR",
+    "adminLevel5": null,
+    "links": [
+     "https://fr-fr.facebook.com/pages/URDLA-Centre-international-estampe-livre/111870461170",
+     "https://twitter.com/uurdla"
+    ],
+    "state": 1,
+    "extId": null,
+    "department": "Rhône",
+    "slug": "urdla-centre-international-estampe-and-livre_5033_5563_8809_14370_20060",
+    "email": null,
+    "longitude": 4.888108,
+    "updatedAt": "2026-09-01T08:55:47.000Z",
+    "image": "https://img.openagenda.com/main/6334b56394864a129c692e10b639e4e7.full.image.jpg",
+    "website": "http://www.urdla.com",
+    "address": "207, rue Francis de Pressensé, 69100 Villeurbanne, Métropole de Lyon, Auvergne-Rhône-Alpes",
+    "adminLevel3": null,
+    "agendaUid": 2470317,
+    "adminLevel4": "Villeurbanne",
+    "adminLevel1": "Auvergne-Rhône-Alpes",
+    "adminLevel2": "Rhône",
+    "mergedIn": null,
+    "_agg": "eyJ1aWQiOjU2NDY4NTY4LCJuYW1lIjoiVXJkbGEgLSBDZW50cmUgaW50ZXJuYXRpb25hbCBlc3RhbXBlICYgbGl2cmUifQ==",
+    "tags": [
+     {
+      "id": 17,
+      "label": "Édifice industriel, scientifique et technique"
+     }
+    ],
+    "insee": "69266",
+    "phone": "04 72 65 33 34",
+    "district": null,
+    "name": "Urdla - Centre international estampe & livre",
+    "region": "Auvergne-Rhône-Alpes",
+    "extIds": null
+   },
+   "ownerUid": 8906622,
+   "conditions": "Entrée libre & gratuite",
+   "extIds": null,
+   "age": {
+    "min": null,
+    "max": null
+   },
+   "status": 1,
+   "nextTiming": {
+    "end": "2026-10-13T18:00:00+02:00",
+    "begin": "2026-10-13T10:00:00+02:00"
+   }
+  },
+  {
+   "country": "France",
+   "featured": false,
+   "private": 0,
+   "accessibility": {
+    "ii": false,
+    "hi": false,
+    "vi": true,
+    "pi": false,
+    "mi": true
+   },
+   "dateRange": "29 septembre - 17 octobre",
+   "timezone": "Europe/Paris",
+   "imageCredits": null,
+   "description": "L’histoire - vraie - d’un couple d’ouvriers berlinois qui entrent en résistance contre Hitler.",
+   "age-du-public": [],
+   "title": "Spectacle « Seul dans Berlin » de Jean Bellorini au TNP",
+   "onlineAccessLink": null,
+   "valid": true,
+   "createdAt": "2026-07-20T13:51:09.000Z",
+   "uid": 8418302,
+   "evenement-labellise-saison-culturelle-20242025-bienvenue-en-ville": false,
+   "motive": null,
+   "draft": 0,
+   "rights": {
+    "license": {
+     "name": "Licence Ouverte 2.0",
+     "id": "etalab-2.0",
+     "url": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0/"
+    },
+    "licensor": {
+     "agendaUid": 1168665,
+     "name": "Villeurbanne - Agenda culturel",
+     "url": "https://viva.villeurbanne.fr/Agenda/list"
+    },
+    "publisher": {
+     "agendaUid": 1168665,
+     "name": "Villeurbanne - Agenda culturel",
+     "url": "https://viva.villeurbanne.fr/Agenda/list"
+    }
+   },
+   "timings": [
+    {
+     "end": "2026-10-15T21:00:00+02:00",
+     "begin": "2026-10-15T19:30:00+02:00"
+    },
+    {
+     "end": "2026-10-16T21:00:00+02:00",
+     "begin": "2026-10-16T19:30:00+02:00"
+    },
+    {
+     "end": "2026-10-17T19:30:00+02:00",
+     "begin": "2026-10-17T18:00:00+02:00"
+    }
+   ],
+   "reservation": 60,
+   "firstTiming": {
+    "end": "2026-09-29T21:00:00.000+02:00",
+    "begin": "2026-09-29T19:30:00.000+02:00"
+   },
+   "links": [],
+   "state": 2,
+   "categories": [
+    33,
+    50,
+    45
+   ],
+   "slug": "spectacle-seul-dans-berlin-de-jean-bellorini-au-tnp",
+   "updatedAt": "2026-09-01T08:55:07.000Z",
+   "addMethod": "contribution",
+   "image": {
+    "filename": "d122947f3f3a4f8a97d45c8791998c83.base.image.jpg",
+    "size": {
+     "width": 700,
+     "height": 453
+    },
+    "variants": [
+     {
+      "filename": "d122947f3f3a4f8a97d45c8791998c83.full.image.jpg",
+      "size": {
+       "width": 2731,
+       "height": 1767
+      },
+      "type": "full"
+     },
+     {
+      "filename": "d122947f3f3a4f8a97d45c8791998c83.thumb.image.jpg",
+      "size": {
+       "width": 200,
+       "height": 200
+      },
+      "type": "thumbnail"
+     }
+    ],
+    "base": "https://img.openagenda.com/main/"
+   },
+   "attendanceMode": 1,
+   "canonicalUrl": "https://openagenda.com/villeurbanne2022/events/8418302_spectacle-seul-dans-berlin-de-jean-bellorini-au-tnp",
+   "sourceAgendas": [],
+   "creatorUid": 19763850,
+   "lastTiming": {
+    "end": "2026-10-17T19:30:00.000+02:00",
+    "begin": "2026-10-17T18:00:00.000+02:00"
+   },
+   "registration": [
+    {
+     "type": "link",
+     "value": "https://indiv.themisweb.fr/0193/fEventChoiceIsMade.aspx?idstructure=0193&idevent=871"
+    }
+   ],
+   "location": {
+    "disqualifiedDuplicates": null,
+    "access": {},
+    "city": "Villeurbanne",
+    "timezone": "Europe/Paris",
+    "postalCode": "69100",
+    "latitude": 45.765535,
+    "imageCredits": null,
+    "setUid": 28569374,
+    "uid": 8305202,
+    "createdAt": "2021-11-05T16:06:13.000Z",
+    "duplicateCandidates": [
+     56937648
+    ],
+    "countryCode": "FR",
+    "adminLevel5": "Gratte-Ciel",
+    "links": [],
+    "state": 0,
+    "extId": null,
+    "department": "Rhône",
+    "slug": "theatre-national-populaire_2456152",
+    "email": null,
+    "longitude": 4.879654,
+    "updatedAt": "2026-09-01T08:55:07.000Z",
+    "image": null,
+    "website": null,
+    "address": "8 place Lazare Goujon 69100 Villeurbanne",
+    "adminLevel3": null,
+    "agendaUid": 1168665,
+    "adminLevel4": "Villeurbanne",
+    "adminLevel1": "Auvergne-Rhône-Alpes",
+    "adminLevel2": "Rhône",
+    "mergedIn": null,
+    "_agg": "eyJ1aWQiOjgzMDUyMDIsIm5hbWUiOiJUaMOpw6J0cmUgTmF0aW9uYWwgUG9wdWxhaXJlIn0=",
+    "tags": null,
+    "insee": "69266",
+    "phone": null,
+    "district": "Gratte-Ciel",
+    "name": "Théâtre National Populaire",
+    "region": "Auvergne-Rhône-Alpes",
+    "extIds": null
+   },
+   "ownerUid": 19763850,
+   "conditions": "7 € - 30 € (selon la catégorie de tarif)",
+   "extIds": null,
+   "age": {
+    "min": 16,
+    "max": 99
+   },
+   "status": 1,
+   "nextTiming": {
+    "end": "2026-10-13T21:00:00+02:00",
+    "begin": "2026-10-13T19:30:00+02:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "objects": [
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "identifier": "9",
+    "homepage": [
+     "https://www.visiterlyon.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "elevation": 175,
+      "latitude": 45.761148,
+      "longitude": 4.852866
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "69383",
+        "isPartOfDepartment": {
+         "isPartOfRegion": {
+          "isPartOfCountry": {
+           "label": {
+            "@en": "France",
+            "@fr": "France"
+           }
+          },
+          "insee": "84",
+          "label": {
+           "@en": "Auvergne-Rhône-Alpes",
+           "@fr": "Auvergne-Rhône-Alpes"
+          }
+         },
+         "insee": "69",
+         "label": {
+          "@en": "Rhône",
+          "@fr": "Rhône"
+         }
+        },
+        "label": {
+         "@en": "Lyon 3e Arrondissement",
+         "@fr": "Lyon 3e Arrondissement"
+        }
+       },
+       "streetAddress": [
+        "Auditorium de Lyon - Orchestre national de Lyon (ONL)",
+        "149 rue Garibaldi",
+        "Place Charles de Gaulle"
+       ],
+       "postalCode": "69003",
+       "addressLocality": "Lyon 3e Arrondissement"
+      }
+     ],
+     "openingHoursSpecification": [
+      {
+       "validThrough": "2026-10-24T21:59:59Z",
+       "opens": "18:00",
+       "validFrom": "2026-10-23T22:00:00Z",
+       "closes": "19:30"
+      }
+     ],
+     "geoPoint": {
+      "lon": 4.852866,
+      "lat": 45.761148
+     }
+    }
+   ],
+   "lastUpdate": "2026-07-10",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "%ABThe sky is beautiful, and my heart is sad%BB: spoken by Chopin to Julian Fontana after the completion of the Fantasia, these words sound like a promise: under Nelson Goerner’s fingers, nostalgia and sorrow will be synonymous with a haunting happiness.",
+      "@fr": "«Le ciel est beau, et mon cœur est triste» : adressés par Chopin à Julian Fontana après l’achèvement de la Fantaisie, ces mots sonnent comme une promesse : sous les doigts de Nelson Goerner, nostalgie et douleur seront synonymes d’un troublant bonheur."
+     }
+    }
+   ],
+   "label": {
+    "@en": "Nelson Goerner",
+    "@fr": "Nelson Goerner"
+   },
+   "type": [
+    "Concert",
+    "MusicEvent",
+    "Event",
+    "CulturalEvent",
+    "PointOfInterest",
+    "EntertainmentAndEvent"
+   ],
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 78 95 95 95"
+     ],
+     "homepage": [
+      "http://www.auditorium-lyon.com/"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/212d83ad-9768-3a3a-9a32-6331681045f8",
+   "takesPlaceAt": [
+    {
+     "endDate": "2026-10-24",
+     "startTime": "18:00",
+     "endTime": "19:30",
+     "startDate": "2026-10-24"
+    }
+   ],
+   "uuid": "0015efdb-c074-3755-bab7-c1bc4e79c968"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "identifier": "9",
+    "homepage": [
+     "https://www.visiterlyon.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.763869,
+      "longitude": 4.778743
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "69244",
+        "isPartOfDepartment": {
+         "isPartOfRegion": {
+          "isPartOfCountry": {
+           "label": {
+            "@en": "France",
+            "@fr": "France"
+           }
+          },
+          "insee": "84",
+          "label": {
+           "@en": "Auvergne-Rhône-Alpes",
+           "@fr": "Auvergne-Rhône-Alpes"
+          }
+         },
+         "insee": "69",
+         "label": {
+          "@en": "Rhône",
+          "@fr": "Rhône"
+         }
+        },
+        "label": {
+         "@en": "Tassin-la-Demi-Lune",
+         "@fr": "Tassin-la-Demi-Lune"
+        }
+       },
+       "streetAddress": [
+        "Promenade des Tuileries"
+       ],
+       "postalCode": "69160",
+       "addressLocality": "Tassin-la-Demi-Lune"
+      }
+     ],
+     "openingHoursSpecification": [
+      {
+       "validThrough": "2026-12-31T22:59:59Z",
+       "opens": "07:00",
+       "validFrom": "2025-12-31T23:00:00Z",
+       "closes": "12:30"
+      }
+     ],
+     "geoPoint": {
+      "lon": 4.778743,
+      "lat": 45.763869
+     }
+    }
+   ],
+   "lastUpdate": "2015-03-26",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "Food market (fruits, vegetables...).",
+      "@fr": "Marché alimentaire (fruits, légumes...)."
+     }
+    }
+   ],
+   "label": {
+    "@fr": "Marché Alimentaire des Tuileries"
+   },
+   "type": [
+    "EntertainmentAndEvent",
+    "Event",
+    "PointOfInterest",
+    "Market",
+    "SaleEvent"
+   ],
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 72 59 22 11"
+     ],
+     "homepage": [
+      "http://www.tassinlademilune.fr/"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/0c637595-0ad0-3a87-a34b-c1aa8ce096df",
+   "takesPlaceAt": [
+    {
+     "endDate": "2026-12-31",
+     "appliesOnDay": [
+      {
+       "label": {
+        "@en": "Friday",
+        "@fr": "Vendredi"
+       },
+       "key": "Friday"
+      }
+     ],
+     "startTime": "07:00",
+     "endTime": "12:30",
+     "startDate": "2026-01-01"
+    }
+   ],
+   "uuid": "0061fe03-fdb7-3a39-9986-8c3f80e6cc81"
+  },
+  {
+   "hasBeenCreatedBy": {
+    "legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "identifier": "9",
+    "homepage": [
+     "https://www.visiterlyon.com/"
+    ]
+   },
+   "isLocatedAt": [
+    {
+     "geo": {
+      "latitude": 45.706734,
+      "longitude": 4.85689
+     },
+     "address": [
+      {
+       "hasAddressCity": {
+        "insee": "69199",
+        "isPartOfDepartment": {
+         "isPartOfRegion": {
+          "isPartOfCountry": {
+           "label": {
+            "@en": "France",
+            "@fr": "France"
+           }
+          },
+          "insee": "84",
+          "label": {
+           "@en": "Auvergne-Rhône-Alpes",
+           "@fr": "Auvergne-Rhône-Alpes"
+          }
+         },
+         "insee": "69",
+         "label": {
+          "@en": "Rhône",
+          "@fr": "Rhône"
+         }
+        },
+        "label": {
+         "@en": "Saint-Fons",
+         "@fr": "Saint-Fons"
+        }
+       },
+       "streetAddress": [
+        "Place Durel"
+       ],
+       "postalCode": "69190",
+       "addressLocality": "Saint-Fons"
+      }
+     ],
+     "openingHoursSpecification": [
+      {
+       "validThrough": "2026-12-31T22:59:59Z",
+       "opens": "07:00",
+       "validFrom": "2025-12-31T23:00:00Z",
+       "closes": "13:00"
+      }
+     ],
+     "geoPoint": {
+      "lon": 4.85689,
+      "lat": 45.706734
+     }
+    }
+   ],
+   "lastUpdate": "2016-05-12",
+   "hasDescription": [
+    {
+     "shortDescription": {
+      "@en": "Food market (fruits, vegetables...).",
+      "@fr": "Marché alimentaire (fruits, légumes...)."
+     }
+    }
+   ],
+   "label": {
+    "@fr": "Marché de Saint Fons"
+   },
+   "type": [
+    "Market",
+    "Event",
+    "SaleEvent",
+    "PointOfInterest",
+    "EntertainmentAndEvent"
+   ],
+   "hasContact": [
+    {
+     "telephone": [
+      "+33 4 72 09 20 20"
+     ],
+     "homepage": [
+      "http://www.saint-fons.fr/"
+     ]
+    }
+   ],
+   "uri": "https://data.datatourisme.fr/13/ec0186b1-3b43-35d1-9376-57fd47e5bbf6",
+   "takesPlaceAt": [
+    {
+     "endDate": "2026-12-31",
+     "appliesOnDay": [
+      {
+       "label": {
+        "@en": "Tuesday",
+        "@fr": "Mardi"
+       },
+       "key": "Tuesday"
+      },
+      {
+       "label": {
+        "@en": "Saturday",
+        "@fr": "Samedi"
+       },
+       "key": "Saturday"
+      }
+     ],
+     "startTime": "07:00",
+     "endTime": "13:00",
+     "startDate": "2026-01-01"
+    }
+   ],
+   "uuid": "01a760c9-55c8-3ace-bcda-037a4f6a9f16"
+  }
+ ]
+}

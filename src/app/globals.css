@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+/*
+ * Sortir Autour — design tokens.
+ * Inspired by French hiking signage and IGN topographic maps:
+ * forest green ink, map-paper background, trail-marker yellow for actions, lake blue for links.
+ */
+@theme {
+  --color-forest-900: #12261b;
+  --color-forest-800: #1f3d2e;
+  --color-forest-700: #2c5640;
+  --color-forest-500: #4f7d61;
+  --color-forest-300: #a9c4b0;
+  --color-forest-100: #dfe9de;
+  --color-paper: #f3f6ef;
+  --color-paper-deep: #e7ede0;
+  --color-card: #fbfcf9;
+  --color-balise: #f2c230;
+  --color-balise-deep: #d9a70f;
+  --color-lake: #2e6f8e;
+  --color-lake-deep: #225570;
+  --color-brick: #b5452f;
+  --color-contour: #c9d6c2;
+
+  --font-display: var(--font-familjen), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-atkinson), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-card: 14px;
+  --radius-control: 10px;
+
+  --animate-ring: ring-pulse 2.8s ease-out 1;
+}
+
+@keyframes ring-pulse {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  background: var(--color-paper);
+  color: var(--color-forest-900);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  background: var(--color-paper);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-lake);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: var(--color-balise);
+  color: var(--color-forest-900);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Range input styled as a trail. */
+input[type="range"].trail {
+  appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(to right, var(--color-forest-700) var(--fill, 50%), var(--color-contour) var(--fill, 50%));
+}
+input[type="range"].trail::-webkit-slider-thumb {
+  appearance: none;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--color-balise);
+  border: 3px solid var(--color-forest-800);
+  cursor: pointer;
+}
+input[type="range"].trail::-moz-range-thumb {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--color-balise);
+  border: 3px solid var(--color-forest-800);
+  cursor: pointer;
+}
